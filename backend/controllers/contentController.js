@@ -63,7 +63,7 @@ exports.addProject = async (req, res) => {
         console.log(`✅ Imagen movida: ${filename}`);
 
         // Construir ruta pública para el frontend
-        const host = process.env.HOST || `localhost`;
+        const host = process.env.HOST || `http://localhost`;
         const port = process.env.PORT ? `:${process.env.PORT}` : '';
         const publicPath = `${host}${port}/uploads/projects/${slug}/${filename}`;
 

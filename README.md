@@ -14,6 +14,16 @@ Este proyecto es mi portfolio personal desarrollado con tecnologías modernas y 
 - Efecto glassmorphism + neón
 - Contacto funcional con validación y captcha
 
-## 🚀 Futuras mejoras
-- Panel de administración con login seguro
-- Editor visual para gestionar contenido
+## 🖼️ Capturas de pantalla
+
+### Componentes principales (frontend)
+![Componentes principales](screenshots/componentes_1.png)
+
+### Modales (frontend)
+![Modales](screenshots/componentes_2.png)
+
+### Componentes de contexto (frontend)
+![Componentes - Context](screenshots/Context_1.png)
+
+### Assets / Iconos (frontend)
+![Assets](screenshots/Assets_1.png)
